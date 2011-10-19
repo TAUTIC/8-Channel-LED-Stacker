@@ -1,0 +1,34 @@
+{
+	"items": [
+		{
+			"designator": "C1",
+			"value": "",
+			"description": "Capacitor"
+		},
+		{
+			"designator": "IC1",
+			"value": "74LS595D",
+			"description": "8-bit SHIFT REGISTER, output latch"
+		},
+		{
+			"designator": "JP1",
+			"value": "",
+			"description": "Header 5"
+		},
+		{
+			"designator": "JP2",
+			"value": "",
+			"description": "Header 5"
+		},
+		{
+			"designator": "R1",
+			"value": "",
+			"description": "BOURNS RESISTOR NETWORK"
+		},
+		{
+			"designator": "SV1",
+			"value": "",
+			"description": "PIN HEADER"
+		}
+	]
+}
